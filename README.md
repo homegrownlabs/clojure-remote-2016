@@ -4,7 +4,7 @@ In this repository you will find slides from [Clojure Remote](clojureremote.com)
 
 ## Speakers
 
-To contribute your slide, open a pull request to the project adding:
+To contribute your slides, open a pull request to the project adding:
 
 * A presentation file(s) named like `<last-name> - <talk title>.{pdf,ppt}`. Preference goes to PDF and other portable formats.
 * A folder named `<last-name> - <talk title>` with your slides and any supporting material.
